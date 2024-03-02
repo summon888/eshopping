@@ -1,0 +1,306 @@
+[
+  {
+    "Id": "61f96e6ee569d600139a50d2",
+    "Name": "Adidas Quick Force Indoor Badminton Shoes",
+    "Description": "High-quality badminton shoes designed for indoor play.",
+    "Price": 3500,
+    "ImageFile": "images/products/adidas_shoe-1.png",
+    "Summary": "Adidas Quick Force Indoor Badminton Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Adidas"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50d3",
+    "Name": "Nike Air Zoom Pegasus 38 Running Shoes",
+    "Description": "Premium running shoes featuring responsive cushioning and breathable mesh.",
+    "Price": 4000,
+    "ImageFile": "images/products/nike_shoe-1.png",
+    "Summary": "Nike Air Zoom Pegasus 38 Running Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f014",
+      "Name": "Nike"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50d4",
+    "Name": "Puma Future Rider Twofold Sneakers",
+    "Description": "Stylish sneakers with a retro-inspired design and comfortable cushioning.",
+    "Price": 3200,
+    "ImageFile": "images/products/puma_shoe-1.png",
+    "Summary": "Puma Future Rider Twofold Sneakers",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f015",
+      "Name": "Puma"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50d5",
+    "Name": "Reebok Nano X1 Training Shoes",
+    "Description": "Versatile training shoes designed for high-intensity workouts.",
+    "Price": 3800,
+    "ImageFile": "images/products/reebok_shoe-1.png",
+    "Summary": "Reebok Nano X1 Training Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f016",
+      "Name": "Reebok"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50d6",
+    "Name": "Under Armour HOVR Sonic 4 Running Shoes",
+    "Description": "Innovative running shoes with energy return technology and breathable upper.",
+    "Price": 4200,
+    "ImageFile": "images/products/under_armour_shoe-1.png",
+    "Summary": "Under Armour HOVR Sonic 4 Running Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f017",
+      "Name": "Under Armour"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50d7",
+    "Name": "New Balance Fresh Foam 1080v11 Running Shoes",
+    "Description": "Premium running shoes featuring Fresh Foam cushioning for a smooth ride.",
+    "Price": 3900,
+    "ImageFile": "images/products/new_balance_shoe-1.png",
+    "Summary": "New Balance Fresh Foam 1080v11 Running Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f018",
+      "Name": "New Balance"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50d8",
+    "Name": "Converse Chuck Taylor All Star Low Top Sneakers",
+    "Description": "Classic low-top sneakers with timeless style and durable canvas upper.",
+    "Price": 2500,
+    "ImageFile": "images/products/converse_shoe-1.png",
+    "Summary": "Converse Chuck Taylor All Star Low Top Sneakers",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f019",
+      "Name": "Converse"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50d9",
+    "Name": "Vans Old Skool Skate Shoes",
+    "Description": "Iconic skate shoes with a suede and canvas upper and signature side stripe.",
+    "Price": 3000,
+    "ImageFile": "images/products/vans_shoe-1.png",
+    "Summary": "Vans Old Skool Skate Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f01a",
+      "Name": "Vans"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50da",
+    "Name": "Adidas Originals Superstar Shoes",
+    "Description": "Iconic Adidas sneakers featuring a rubber shell toe and leather upper.",
+    "Price": 3200,
+    "ImageFile": "images/products/adidas_originals_shoe-1.png",
+    "Summary": "Adidas Originals Superstar Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Adidas"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50db",
+    "Name": "ASICS Gel-Kayano 28 Running Shoes",
+    "Description": "High-performance running shoes with advanced cushioning and support.",
+    "Price": 4100,
+    "ImageFile": "images/products/asics_shoe-1.png",
+    "Summary": "ASICS Gel-Kayano 28 Running Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "ASICS"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50dc",
+    "Name": "Nike Air Max 270 Casual Shoes",
+    "Description": "Comfortable lifestyle shoes with a visible Max Air unit in the heel.",
+    "Price": 3800,
+    "ImageFile": "images/products/nike_air_max_shoe-1.png",
+    "Summary": "Nike Air Max 270 Casual Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f014",
+      "Name": "Nike"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50dd",
+    "Name": "Puma Suede Classic Sneakers",
+    "Description": "Timeless sneakers with a suede upper and rubber outsole.",
+    "Price": 2800,
+    "ImageFile": "images/products/puma_suede_shoe-1.png",
+    "Summary": "Puma Suede Classic Sneakers",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f015",
+      "Name": "Puma"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50de",
+    "Name": "Reebok Classic Leather Sneakers",
+    "Description": "Iconic Reebok sneakers with a leather upper and EVA midsole.",
+    "Price": 3000,
+    "ImageFile": "images/products/reebok_classic_shoe-1.png",
+    "Summary": "Reebok Classic Leather Sneakers",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f016",
+      "Name": "Reebok"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50df",
+    "Name": "Under Armour Curry 8 Basketball Shoes",
+    "Description": "Performance basketball shoes designed for Stephen Curry.",
+    "Price": 4500,
+    "ImageFile": "images/products/under_armour_curry_shoe-1.png",
+    "Summary": "Under Armour Curry 8 Basketball Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f017",
+      "Name": "Under Armour"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50e0",
+    "Name": "New Balance 574 Lifestyle Shoes",
+    "Description": "Classic lifestyle shoes with a suede and mesh upper for durability and breathability.",
+    "Price": 3200,
+    "ImageFile": "images/products/new_balance_lifestyle_shoe-1.png",
+    "Summary": "New Balance 574 Lifestyle Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f018",
+      "Name": "New Balance"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50e1",
+    "Name": "Converse Chuck Taylor All Star High Top Sneakers",
+    "Description": "Classic high-top sneakers with a durable canvas upper and iconic design.",
+    "Price": 2700,
+    "ImageFile": "images/products/converse_high_top_shoe-1.png",
+    "Summary": "Converse Chuck Taylor All Star High Top Sneakers",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f019",
+      "Name": "Converse"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50e2",
+    "Name": "Vans SK8-Hi Skate Shoes",
+    "Description": "Classic skate shoes with a high-top silhouette and padded collar for support.",
+    "Price": 2900,
+    "ImageFile": "images/products/vans_skate_shoe-1.png",
+    "Summary": "Vans SK8-Hi Skate Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f01a",
+      "Name": "Vans"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50e3",
+    "Name": "Adidas UltraBoost DNA Running Shoes",
+    "Description": "Premium running shoes with responsive cushioning and flexible knit upper.",
+    "Price": 3900,
+    "ImageFile": "images/products/adidas_ultraboost_shoe-1.png",
+    "Summary": "Adidas UltraBoost DNA Running Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Adidas"
+    }
+  },
+  {
+    "Id": "61f96e6ee569d600139a50e4",
+    "Name": "ASICS GEL-Nimbus 24 Running Shoes",
+    "Description": "Long-distance running shoes with advanced cushioning and support.",
+    "Price": 4300,
+    "ImageFile": "images/products/asics_gel_nimbus_shoe-1.png",
+    "Summary": "ASICS GEL-Nimbus 24 Running Shoes",
+    "Types": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "61f964e8b8406e0013a6f01c",
+      "Name": "ASICS"
+    }
+  }
+]

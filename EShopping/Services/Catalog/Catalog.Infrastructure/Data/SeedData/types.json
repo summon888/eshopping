@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "61f964e8b8406e0013a6f01c",
+    "Name": "Shoes"
+  },
+  {
+    "Id": "61f96a93e569d600139a50c1",
+    "Name": "T-Shirts"
+  },
+  {
+    "Id": "61f96a93e569d600139a50c2",
+    "Name": "Jeans"
+  },
+  {
+    "Id": "61f96a93e569d600139a50c3",
+    "Name": "Dresses"
+  },
+  {
+    "Id": "61f96a93e569d600139a50c4",
+    "Name": "Hats"
+  },
+  {
+    "Id": "61f96a93e569d600139a50c5",
+    "Name": "Sneakers"
+  },
+  {
+    "Id": "61f96a93e569d600139a50c6",
+    "Name": "Sandals"
+  },
+  {
+    "Id": "61f96a93e569d600139a50c7",
+    "Name": "Boots"
+  },
+  {
+    "Id": "61f96a93e569d600139a50c8",
+    "Name": "Jackets"
+  },
+  {
+    "Id": "61f96a93e569d600139a50c9",
+    "Name": "Accessories"
+  }
+]
