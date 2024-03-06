@@ -1,0 +1,22 @@
+{
+  "profiles": {
+    "OcelotApiGateway": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Local"
+      },
+      "dotnetRunMessages": true
+      "applicationUrl": "http://localhost:9010"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/weatherforecast",
+      "environmentVariables": {
+        "ASPNETCORE_HTTP_PORTS": "80"
+      },
+      "publishAllPorts": true
+    }
+  }
+}
